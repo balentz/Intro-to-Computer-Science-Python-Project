@@ -1,0 +1,113 @@
+Player: Brooke
+Difficulty: Medium
+Outcome: Won
+Guesses: 6
+Hints: 0
+Score: 110
+-------------------------
+Player: Brooke
+Difficulty: Easy
+Outcome: Won
+Guesses: 3
+Guesses Made: 10, 15, 12
+Hints: 0
+Score: 100
+-------------------------
+Player: Brooke
+Difficulty: Hard
+Outcome: Won
+Guesses: 6
+Hints: 0
+Score: 150
+-------------------------
+Player: Brooke
+Difficulty: Easy
+Outcome: Won
+Guesses: 3
+Hints: 0
+Score: 100
+-------------------------
+Player: Brooke
+Difficulty: Easy
+Outcome: Won
+Guesses: 4
+Hints: 0
+Score: 90
+-------------------------
+Player: Brooke
+Difficulty: Medium
+Outcome: Won
+Guesses: 4
+Hints: 0
+Score: 130
+-------------------------
+Player: Brooke
+Difficulty: Easy
+Outcome: Won
+Guesses: 5
+Hints: 0
+Score: 80
+-------------------------
+Player: Brooke
+Difficulty: Hard
+Outcome: Won
+Guesses: 6
+Hints: 2
+Score: 140
+-------------------------
+Player: Brooke
+Difficulty: Easy
+Outcome: Lost
+Guesses: 1
+Hints: 0
+Score: 0
+-------------------------
+Player: Brooke
+Difficulty: Easy
+Outcome: Won
+Guesses: 4
+Hints: 0
+Score: 90
+-------------------------
+Player: Brooke
+Difficulty: Medium
+Outcome: Won
+Guesses: 7
+Hints: 3
+Score: 85
+-------------------------
+Player: Brooke
+Difficulty: Easy
+Outcome: Won
+Guesses: 3
+Hints: 0
+Score: 100
+-------------------------
+Player: Brooke
+Difficulty: Easy
+Outcome: Won
+Guesses: 4
+Hints: 0
+Score: 90
+-------------------------
+Player: Brooke
+Difficulty: Medium
+Outcome: Won
+Guesses: 6
+Hints: 1
+Score: 105
+-------------------------
+Player: Brooke
+Difficulty: Easy
+Outcome: Lost
+Guesses: 0
+Hints: 0
+Score: 0
+-------------------------
+Player: Brooke
+Difficulty: Easy
+Outcome: Lost
+Guesses: 0
+Hints: 0
+Score: 0
+-------------------------
