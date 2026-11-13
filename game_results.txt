@@ -153,3 +153,136 @@ Guesses: 4
 Hints: 1
 Score: 125
 -------------------------
+Player: Brooke
+Difficulty: Easy
+Outcome: Won
+Guesses: 5
+Hints: 0
+Score: 80
+-------------------------
+Player: Brooke
+Difficulty: Medium
+Outcome: Lost
+Guesses: 1
+Hints: 0
+Score: 0
+-------------------------
+Player: Brooke
+Difficulty: Medium
+Outcome: Won
+Guesses: 4
+Hints: 0
+Score: 130
+-------------------------
+Player: Brooke
+Difficulty: Custom
+Outcome: Won
+Guesses: 3
+Hints: 0
+Score: 70
+-------------------------
+Player: Brooke
+Difficulty: Easy
+Outcome: Won
+Guesses: 4
+Hints: 0
+Score: 90
+-------------------------
+Player: Brooke
+Difficulty: Custom
+Outcome: Won
+Guesses: 5
+Hints: 0
+Score: 50
+-------------------------
+Player: Brooke9
+Difficulty: Easy
+Outcome: Lost
+Guesses: 0
+Hints: 0
+Score: 0
+-------------------------
+Player: Brooke9
+Difficulty: Custom
+Outcome: Won
+Guesses: 3
+Hints: 1
+Score: 65
+-------------------------
+Player: Brooke3
+Difficulty: Easy
+Outcome: Lost
+Guesses: 0
+Hints: 0
+Score: 0
+-------------------------
+Player: Brooke3
+Difficulty: Custom
+Outcome: Won
+Guesses: 6
+Hints: 1
+Score: 35
+-------------------------
+Player: Brooke9
+Difficulty: Easy
+Outcome: Lost
+Guesses: 0
+Hints: 0
+Score: 0
+-------------------------
+Player: Brooke9
+Difficulty: Easy
+Outcome: Lost
+Guesses: 0
+Hints: 0
+Score: 0
+-------------------------
+Player: Brooke9
+Difficulty: Custom
+Outcome: Won
+Guesses: 4
+Hints: 1
+Score: 55
+-------------------------
+Player: Brooke2
+Difficulty: Easy
+Outcome: Lost
+Guesses: 0
+Hints: 0
+Score: 0
+-------------------------
+Player: Brooke4
+Difficulty: Easy
+Outcome: Lost
+Guesses: 0
+Hints: 0
+Score: 0
+-------------------------
+Player: Brooke4
+Difficulty: Custom
+Outcome: Won
+Guesses: 4
+Hints: 1
+Score: 55
+-------------------------
+Player: Brooke1
+Difficulty: Easy
+Outcome: Lost
+Guesses: 0
+Hints: 0
+Score: 0
+-------------------------
+Player: Brooke2
+Difficulty: Custom
+Outcome: Won
+Guesses: 3
+Hints: 1
+Score: 65
+-------------------------
+Player: Brooke2
+Difficulty: Easy
+Outcome: Lost
+Guesses: 0
+Hints: 0
+Score: 0
+-------------------------
