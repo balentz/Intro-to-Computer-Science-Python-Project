@@ -111,3 +111,45 @@ Guesses: 0
 Hints: 0
 Score: 0
 -------------------------
+Player: Brooke
+Difficulty: Easy
+Outcome: Won
+Guesses: 3
+Hints: 0
+Score: 100
+-------------------------
+Player: Brooke
+Difficulty: Easy
+Outcome: Won
+Guesses: 4
+Hints: 0
+Score: 90
+-------------------------
+Player: Brooke2
+Difficulty: Medium
+Outcome: Won
+Guesses: 3
+Hints: 1
+Score: 135
+-------------------------
+Player: Brooke8
+Difficulty: Medium
+Outcome: Won
+Guesses: 4
+Hints: 1
+Score: 125
+-------------------------
+Player: Brooke6
+Difficulty: Hard
+Outcome: Lost
+Guesses: 0
+Hints: 0
+Score: 0
+-------------------------
+Player: Brooke6
+Difficulty: Medium
+Outcome: Won
+Guesses: 4
+Hints: 1
+Score: 125
+-------------------------
